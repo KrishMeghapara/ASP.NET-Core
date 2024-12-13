@@ -1,15 +1,12 @@
-Basic Coding and Web Development Repository
-<br>
-Welcome to my GitHub repository! 🚀
-<br>
-This repository contains a collection of files and projects focused on:
-<br>
-Basic Coding Concepts
-<br>
-Web Development
-<br>
-JavaScript
-<br>
-Object-Oriented Programming (OOP)
-<br>
-Feel free to explore, learn, and contribute!
+# Basic Coding and Web Development Repository 🚀
+
+Welcome to my GitHub repository!  
+
+This repository is a collection of files and projects covering:  
+- **Basic Coding Concepts**  
+- **Web Development**  
+- **JavaScript**  
+- **Object-Oriented Programming (OOP)**  
+
+Whether you're here to learn, explore, or contribute, I hope you find this repository helpful.  
+Feel free to dive in and make the most of it! 😊  
