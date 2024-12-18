@@ -10,10 +10,13 @@ namespace Lab2
     {
         static void Main(string[] args)
         {
+            // A - 1 
             Candidate c1 = new Candidate();
             c1.GetCandidateDetails();
             c1.DisplayCandidateDetails();
 
+            // A - 2
+            
             Staff[] staff = new Staff[5];
             for (int i = 0; i < staff.Length; i++) {
                 staff[i]=new Staff();
@@ -26,13 +29,19 @@ namespace Lab2
 
             }
 
+            // A - 3
+            
             Bank_Account account = new Bank_Account();
             account.GetBank_AccountDetails();
             account.DisplayBank_AccountDetails();
 
+            // A - 4
+            
             Student student = new Student();
             student.DisplayStudent();
 
+            // A - 5
+            
             AreaOfRectangle areaOfRectangle = new AreaOfRectangle();    
 
         }
